@@ -15,13 +15,21 @@ Hi there, I'm Mehmet Yusuf 👋
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 </div>
 
- <br />
+## My Contribution Graph
+
+<br />
 
 
+![snake gif](https://github.com/mehmetyusufbayat/mehmetyusufbayat/blob/output/github-contribution-grid-snake.gif)
 
 
+<br />
 
-<br /> 
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mehmetyusufbayat&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+
+<br />
 
 ## Connect with me  
 <div align="center">
@@ -36,13 +44,8 @@ Hi there, I'm Mehmet Yusuf 👋
 </a>  
 </div>  
   
-
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mehmetyusufbayat&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mehmetyusufbayat&&style=flat-square" align="center" />
-</div>  
+</div> 
